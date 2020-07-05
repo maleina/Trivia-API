@@ -9,7 +9,7 @@ This project was created as part of Udacity's Full Stack Developer Nanodegree pr
 3) Provides the ability to search for questions based on a text query string.
 4) Includes a quiz game, presenting a random question from all questions or questions within a specific category. Previous questions are not presented again until the game ends.
 
-All backend code follows PEP8 style guidelines.
+Backend code follows PEP8 style guidelines.
 
 ## Getting Started
 
